@@ -17,7 +17,7 @@
 
     <properties>
         <alipay.version>4.16.57.ALL</alipay.version>
-        <fastjson.version>1.2.78</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
     
     <dependencies>
